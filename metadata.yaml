@@ -1,5 +1,8 @@
 _repo: Roy-Blakeley-s-Tangled-Trail_61089
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61089-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61089#Roy-Blakeley-s-Tangled-Trail
 gutenberg_issued: '2020-01-03'
 gutenberg_type: Text
 identifiers:
